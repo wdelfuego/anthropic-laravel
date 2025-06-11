@@ -1,5 +1,5 @@
 {
-    "name": "mozex/anthropic-laravel",
+    "name": "wdelfuego/anthropic-laravel",
     "description": "Anthropic PHP for Laravel is a supercharged PHP API client that allows you to interact with the Anthropic API",
     "keywords": ["laravel", "php", "anthropic", "sdk", "claude", "Claude-3-Opus", "Claude-3-Sonnet", "Claude-3-Haiku", "api", "client", "natural", "language", "processing"],
     "license": "MIT",
@@ -7,6 +7,10 @@
         {
             "name": "Mozex",
             "email": "mozex@alphorld.com"
+        },
+        {
+            "name": "Willem Vervuurt",
+            "email": "willem@studiodelfuego.com"
         }
     ],
     "require": {
